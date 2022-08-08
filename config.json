@@ -1,0 +1,21 @@
+{
+   "sessionName": "session",
+   "ownerNumber": "6285693650294@s.whatsapp.net",
+   "ownerName": "YUDS",
+   "botName": "YUDSBOTz",
+   "footer": "YUDSBOTz © 2022",
+   "butName": "YouTube",
+   "butLink": "https://youtube.com/c/RAMLANID",   
+   "pathThumb": "./temp/logo.jpg",
+   "pathQris": "./temp/qris.jpg",
+   "mess": {
+    "wait": "*SABAR TOD...*",
+    "error": "*Maaf terjadi kesalahan!*",
+    "OnlyGrup": "CMD INI CUMA BUAT GRUP ANJENG",
+    "OnlyPM": "CMD INI CUMA BUAT JAPRI ANJENG",
+    "GrupAdmin": "CMD INI CUMA BUAT ADMIN ANJENG",
+    "BotAdmin": "JADIIN GUA ADMIN DULU KENTOD",
+    "OnlyOwner": "LU BUKAN OWNER GUA ANJENG",
+    "OnlyPrem": "CMD KHUSUS OWNER PREMIUM"
+   }
+}
